@@ -1,4 +1,4 @@
-Hi, i'm Jonathan, a brazilian new student of programming. 
+Hi, i'm Jonathan, a brazilian programming student. 
 Why are you here reading this? Whew, i don't know, but fell free to explore my profile. ༼ つ ◕_◕ ༽つ
 
 
@@ -32,4 +32,4 @@ Why are you here reading this? Whew, i don't know, but fell free to explore my p
 
 
 
-"It's all goodman!"
+-"It's all goodman!"
