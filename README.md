@@ -3,7 +3,7 @@ Why are you here reading this? Whew, i don't know, but fell free to explore my p
 
 ༼ つ ◕_◕ ༽つ  
 
-Currently i'm learning python.
+Currently i'm learning Java and Python.
 
 
 
