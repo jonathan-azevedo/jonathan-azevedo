@@ -1,9 +1,6 @@
-Hi, i'm Jonathan, a brazilian programming student. 
-Why are you here reading this? Whew, i don't know, but fell free to explore my profile.
+Hi, i'm Jonathan, a brazilian computer engineering student at Federal University of Rio Grande do Sul.
 
-༼ つ ◕_◕ ༽つ  
-
-Currently i'm learning Java and Python.
+Currently learning c and Python.
 
 
 
